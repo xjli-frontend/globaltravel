@@ -1,0 +1,125 @@
+
+clerk_0.png
+size: 680,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl_erhuan2
+  rotate: false
+  xy: 615, 13
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+girl_houfa
+  rotate: false
+  xy: 277, 72
+  size: 197, 199
+  orig: 197, 199
+  offset: 0, 0
+  index: -1
+girl_shangshou1
+  rotate: false
+  xy: 575, 122
+  size: 29, 60
+  orig: 29, 60
+  offset: 0, 0
+  index: -1
+girl_shangshou2
+  rotate: true
+  xy: 554, 23
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+girl_shou1
+  rotate: true
+  xy: 637, 98
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+girl_shou2
+  rotate: false
+  xy: 637, 140
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+girl_tou
+  rotate: true
+  xy: 2, 66
+  size: 205, 273
+  orig: 205, 273
+  offset: 0, 0
+  index: -1
+girl_weibo1
+  rotate: false
+  xy: 481, 7
+  size: 71, 77
+  orig: 71, 77
+  offset: 0, 0
+  index: -1
+girl_weibo2
+  rotate: false
+  xy: 250, 3
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+girl_xiashou1
+  rotate: false
+  xy: 606, 122
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+girl_xiashou2
+  rotate: true
+  xy: 575, 94
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: -1
+girl_yan
+  rotate: false
+  xy: 170, 18
+  size: 78, 46
+  orig: 78, 46
+  offset: 0, 0
+  index: -1
+girl_yan_xiao
+  rotate: false
+  xy: 554, 58
+  size: 101, 26
+  orig: 101, 26
+  offset: 0, 0
+  index: -1
+girl_yifu1
+  rotate: true
+  xy: 310, 2
+  size: 68, 169
+  orig: 68, 169
+  offset: 0, 0
+  index: -1
+girl_yifu2
+  rotate: true
+  xy: 2, 3
+  size: 61, 166
+  orig: 61, 166
+  offset: 0, 0
+  index: -1
+girl_yifu3
+  rotate: false
+  xy: 476, 86
+  size: 97, 185
+  orig: 97, 185
+  offset: 0, 0
+  index: -1
+tx_stars_1
+  rotate: true
+  xy: 575, 184
+  size: 87, 100
+  orig: 87, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+daditu_fengche.png
+size: 435,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shanye
+  rotate: true
+  xy: 378, 190
+  size: 148, 55
+  orig: 148, 55
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 2, 2
+  size: 374, 336
+  orig: 374, 336
+  offset: 0, 0
+  index: -1

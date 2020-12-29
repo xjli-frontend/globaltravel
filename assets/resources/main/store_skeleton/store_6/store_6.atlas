@@ -1,0 +1,265 @@
+
+store_6.png
+size: 835,648
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flash_xing_1
+  rotate: false
+  xy: 665, 41
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+flash_xing_2
+  rotate: false
+  xy: 391, 4
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+flash_xing_3
+  rotate: false
+  xy: 715, 41
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+store_7_beiban
+  rotate: false
+  xy: 633, 339
+  size: 184, 123
+  orig: 184, 123
+  offset: 0, 0
+  index: -1
+store_7_di
+  rotate: false
+  xy: 2, 343
+  size: 629, 303
+  orig: 629, 303
+  offset: 0, 0
+  index: -1
+store_7_flash1
+  rotate: false
+  xy: 547, 5
+  size: 53, 115
+  orig: 53, 115
+  offset: 0, 0
+  index: -1
+store_7_flash2
+  rotate: true
+  xy: 583, 170
+  size: 47, 112
+  orig: 47, 112
+  offset: 0, 0
+  index: -1
+store_7_flash3
+  rotate: false
+  xy: 485, 5
+  size: 60, 115
+  orig: 60, 115
+  offset: 0, 0
+  index: -1
+store_7_flash4
+  rotate: false
+  xy: 276, 3
+  size: 113, 103
+  orig: 113, 103
+  offset: 0, 0
+  index: -1
+store_7_flash5
+  rotate: true
+  xy: 185, 2
+  size: 104, 89
+  orig: 104, 89
+  offset: 0, 0
+  index: -1
+store_7_flash6
+  rotate: false
+  xy: 468, 122
+  size: 109, 87
+  orig: 109, 87
+  offset: 0, 0
+  index: -1
+store_7_hongzhuan1
+  rotate: true
+  xy: 780, 110
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+store_7_hongzhuan2
+  rotate: true
+  xy: 804, 129
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+store_7_hongzhuan3
+  rotate: false
+  xy: 2, 3
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+store_7_hongzhuan4
+  rotate: true
+  xy: 789, 64
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+store_7_hongzhuan5
+  rotate: true
+  xy: 764, 51
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+store_7_hongzhuan6
+  rotate: false
+  xy: 52, 6
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+store_7_hongzhuan7
+  rotate: false
+  xy: 665, 14
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+store_7_hongzhuan8
+  rotate: false
+  xy: 712, 17
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+store_7_hongzhuan9
+  rotate: false
+  xy: 101, 6
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+store_7_huatong
+  rotate: false
+  xy: 404, 106
+  size: 62, 89
+  orig: 62, 89
+  offset: 0, 0
+  index: -1
+store_7_jiezou1
+  rotate: true
+  xy: 715, 219
+  size: 118, 106
+  orig: 118, 106
+  offset: 0, 0
+  index: -1
+store_7_jiezou2
+  rotate: false
+  xy: 463, 211
+  size: 118, 130
+  orig: 118, 130
+  offset: 0, 0
+  index: -1
+store_7_jiezou4
+  rotate: true
+  xy: 583, 219
+  size: 118, 130
+  orig: 118, 130
+  offset: 0, 0
+  index: -1
+store_7_laba1
+  rotate: true
+  xy: 2, 30
+  size: 86, 181
+  orig: 86, 181
+  offset: 0, 0
+  index: -1
+store_7_laba2
+  rotate: true
+  xy: 232, 108
+  size: 87, 170
+  orig: 87, 170
+  offset: 0, 0
+  index: -1
+store_7_pingmu
+  rotate: false
+  xy: 2, 118
+  size: 228, 223
+  orig: 228, 223
+  offset: 0, 0
+  index: -1
+store_7_wutai
+  rotate: false
+  xy: 232, 197
+  size: 229, 144
+  orig: 229, 144
+  offset: 0, 0
+  index: -1
+store_7_xingxing
+  rotate: false
+  xy: 633, 464
+  size: 199, 182
+  orig: 199, 182
+  offset: 0, 0
+  index: -1
+store_7_yinxiang2
+  rotate: true
+  xy: 690, 98
+  size: 56, 88
+  orig: 56, 88
+  offset: 0, 0
+  index: -1
+store_7_yinxiang3
+  rotate: true
+  xy: 697, 156
+  size: 61, 92
+  orig: 61, 92
+  offset: 0, 0
+  index: -1
+store_7_yuekou
+  rotate: true
+  xy: 149, 6
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+store_7_yuekou2
+  rotate: false
+  xy: 789, 33
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+tx_yinfu
+  rotate: false
+  xy: 579, 141
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+tx_yuanhuan
+  rotate: false
+  xy: 791, 175
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+xiaoyinxiang1
+  rotate: true
+  xy: 602, 7
+  size: 91, 61
+  orig: 91, 61
+  offset: 0, 0
+  index: -1
+xiaoyinxiang2
+  rotate: false
+  xy: 602, 100
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1

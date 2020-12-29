@@ -1,0 +1,90 @@
+
+store_2.png
+size: 1008,341
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wanju_che
+  rotate: false
+  xy: 923, 179
+  size: 83, 160
+  orig: 83, 160
+  offset: 0, 0
+  index: -1
+wanju_di
+  rotate: false
+  xy: 2, 100
+  size: 482, 239
+  orig: 482, 239
+  offset: 0, 0
+  index: -1
+wanju_fangding
+  rotate: false
+  xy: 486, 184
+  size: 296, 155
+  orig: 296, 155
+  offset: 0, 0
+  index: -1
+wanju_fangding2
+  rotate: true
+  xy: 752, 16
+  size: 166, 107
+  orig: 166, 107
+  offset: 0, 0
+  index: -1
+wanju_fangkuai
+  rotate: true
+  xy: 953, 23
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+wanju_fangzi
+  rotate: false
+  xy: 486, 2
+  size: 264, 180
+  orig: 264, 180
+  offset: 0, 0
+  index: -1
+wanju_feiji
+  rotate: true
+  xy: 2, 4
+  size: 94, 183
+  orig: 94, 183
+  offset: 0, 0
+  index: -1
+wanju_jimu
+  rotate: false
+  xy: 861, 19
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+wanju_qiu
+  rotate: false
+  xy: 861, 85
+  size: 125, 92
+  orig: 125, 92
+  offset: 0, 0
+  index: -1
+wanju_wawa
+  rotate: false
+  xy: 360, 9
+  size: 102, 89
+  orig: 102, 89
+  offset: 0, 0
+  index: -1
+wanju_weimu
+  rotate: false
+  xy: 187, 2
+  size: 171, 96
+  orig: 171, 96
+  offset: 0, 0
+  index: -1
+wanju_zhuzhi
+  rotate: false
+  xy: 784, 196
+  size: 137, 143
+  orig: 137, 143
+  offset: 0, 0
+  index: -1

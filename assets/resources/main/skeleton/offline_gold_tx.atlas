@@ -1,0 +1,20 @@
+
+offline_gold_tx.png
+size: 532,317
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/flash_1
+  rotate: false
+  xy: 317, 102
+  size: 213, 213
+  orig: 213, 213
+  offset: 0, 0
+  index: -1
+images/tx/flash_2
+  rotate: false
+  xy: 2, 2
+  size: 313, 313
+  orig: 313, 313
+  offset: 0, 0
+  index: -1

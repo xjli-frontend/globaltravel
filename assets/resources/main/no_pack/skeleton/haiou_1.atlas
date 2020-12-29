@@ -1,0 +1,27 @@
+
+haiou_1.png
+size: 271,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: true
+  xy: 89, 105
+  size: 90, 180
+  orig: 90, 180
+  offset: 0, 0
+  index: -1
+shenti1
+  rotate: false
+  xy: 89, 2
+  size: 163, 101
+  orig: 163, 101
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 13
+  size: 85, 182
+  orig: 85, 182
+  offset: 0, 0
+  index: -1

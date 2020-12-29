@@ -1,0 +1,69 @@
+
+daditu_chuan.png
+size: 915,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuan/chuan1
+  rotate: false
+  xy: 719, 155
+  size: 155, 87
+  orig: 155, 87
+  offset: 0, 0
+  index: -1
+chuan/chuan2
+  rotate: true
+  xy: 482, 39
+  size: 203, 108
+  orig: 203, 108
+  offset: 0, 0
+  index: -1
+chuan/chuan3
+  rotate: true
+  xy: 352, 12
+  size: 230, 128
+  orig: 230, 128
+  offset: 0, 0
+  index: -1
+chuan/chuan4
+  rotate: true
+  xy: 2, 2
+  size: 240, 49
+  orig: 240, 49
+  offset: 0, 0
+  index: -1
+chuan/chuan5
+  rotate: true
+  xy: 719, 7
+  size: 146, 125
+  orig: 146, 125
+  offset: 0, 0
+  index: -1
+chuan/chuan6
+  rotate: false
+  xy: 592, 68
+  size: 125, 174
+  orig: 125, 174
+  offset: 0, 0
+  index: -1
+chuan/chuan7
+  rotate: false
+  xy: 592, 2
+  size: 104, 64
+  orig: 104, 64
+  offset: 0, 0
+  index: -1
+chuan/chuan8
+  rotate: true
+  xy: 846, 49
+  size: 104, 67
+  orig: 104, 67
+  offset: 0, 0
+  index: -1
+chuan/chuan9
+  rotate: false
+  xy: 53, 5
+  size: 297, 237
+  orig: 297, 237
+  offset: 0, 0
+  index: -1

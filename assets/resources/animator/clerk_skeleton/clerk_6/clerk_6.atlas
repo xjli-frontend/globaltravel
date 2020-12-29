@@ -1,0 +1,265 @@
+
+clerk_6.png
+size: 472,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dy_ren1_bei_jiao1
+  rotate: false
+  xy: 445, 2
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_jiao2
+  rotate: false
+  xy: 101, 2
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_jita
+  rotate: false
+  xy: 58, 11
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_shangjiao1
+  rotate: false
+  xy: 304, 5
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_shangjiao2
+  rotate: false
+  xy: 312, 21
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_shangshou1
+  rotate: true
+  xy: 239, 17
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_shangshou2
+  rotate: true
+  xy: 202, 3
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_shou1
+  rotate: false
+  xy: 381, 68
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_shou2
+  rotate: false
+  xy: 457, 3
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_tou
+  rotate: false
+  xy: 182, 15
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_xiajiao1
+  rotate: true
+  xy: 114, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_xiajiao2
+  rotate: true
+  xy: 127, 2
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_xiashou1
+  rotate: true
+  xy: 58, 2
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_xiashou2
+  rotate: true
+  xy: 240, 6
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_yifu
+  rotate: false
+  xy: 443, 25
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+dy_ren1_houfa
+  rotate: false
+  xy: 391, 24
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+dy_ren1_jiao1
+  rotate: true
+  xy: 292, 4
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+dy_ren1_jiao2
+  rotate: true
+  xy: 280, 3
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+dy_ren1_jita
+  rotate: false
+  xy: 120, 11
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+dy_ren1_meimao
+  rotate: false
+  xy: 78, 4
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+dy_ren1_shangjiao1
+  rotate: false
+  xy: 316, 9
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dy_ren1_shangjiao2
+  rotate: false
+  xy: 324, 22
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dy_ren1_shangshou1
+  rotate: true
+  xy: 259, 17
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+dy_ren1_shangshou2
+  rotate: true
+  xy: 221, 3
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+dy_ren1_shou1
+  rotate: true
+  xy: 139, 2
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+dy_ren1_shou2
+  rotate: false
+  xy: 455, 14
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dy_ren1_tou
+  rotate: true
+  xy: 239, 28
+  size: 48, 67
+  orig: 48, 67
+  offset: 0, 0
+  index: -1
+dy_ren1_xiajiao1
+  rotate: true
+  xy: 299, 18
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dy_ren1_xiajiao2
+  rotate: false
+  xy: 445, 12
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dy_ren1_xiashou1
+  rotate: true
+  xy: 279, 18
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+dy_ren1_xiashou2
+  rotate: true
+  xy: 260, 6
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+dy_ren1_yan
+  rotate: false
+  xy: 182, 2
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+dy_ren1_yifu
+  rotate: true
+  xy: 336, 4
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+jita
+  rotate: true
+  xy: 2, 2
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+tx/tx_yuanhuan
+  rotate: false
+  xy: 308, 34
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+tx_yinfu
+  rotate: true
+  xy: 352, 57
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 391, 3
+  size: 52, 19
+  orig: 52, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+hetong.png
+size: 938,569
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+finger
+  rotate: false
+  xy: 181, 66
+  size: 115, 105
+  orig: 115, 105
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 467, 147
+  size: 420, 239
+  orig: 420, 239
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: false
+  xy: 2, 173
+  size: 463, 394
+  orig: 463, 394
+  offset: 0, 0
+  index: -1
+shouxin
+  rotate: false
+  xy: 2, 2
+  size: 177, 169
+  orig: 177, 169
+  offset: 0, 0
+  index: -1
+yinzhang
+  rotate: false
+  xy: 708, 39
+  size: 228, 263
+  orig: 228, 263
+  offset: 0, 0
+  index: -1
+yinzhang_zh
+  rotate: false
+  xy: 708, 304
+  size: 228, 263
+  orig: 228, 263
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,355 @@
+{
+  "task": {
+    "task_1": {
+      "id": 1,
+      "type": 1,
+      "name": "店铺升级100次",
+      "tag": 100,
+      "rewardType": 2,
+      "rewardValue": 1,
+      "nextTask": 2
+    },
+    "task_2": {
+      "id": 2,
+      "type": 1,
+      "name": "店铺升级200次",
+      "tag": 200,
+      "rewardType": 2,
+      "rewardValue": 1,
+      "nextTask": 3
+    },
+    "task_3": {
+      "id": 3,
+      "type": 1,
+      "name": "店铺升级500次",
+      "tag": 500,
+      "rewardType": 1,
+      "rewardValue": 5,
+      "nextTask": 0
+    },
+    "task_4": {
+      "id": 4,
+      "type": 1,
+      "name": "达成店铺挑战10次",
+      "tag": 10,
+      "rewardType": 2,
+      "rewardValue": 1,
+      "nextTask": 5
+    },
+    "task_5": {
+      "id": 5,
+      "type": 1,
+      "name": "达成店铺挑战20次",
+      "tag": 20,
+      "rewardType": 1,
+      "rewardValue": 8,
+      "nextTask": 0
+    },
+    "task_6": {
+      "id": 6,
+      "type": 1,
+      "name": "领取1次离线收益",
+      "tag": 1,
+      "rewardType": 2,
+      "rewardValue": 1,
+      "nextTask": 7
+    },
+    "task_7": {
+      "id": 7,
+      "type": 1,
+      "name": "领取3次离线收益",
+      "tag": 3,
+      "rewardType": 1,
+      "rewardValue": 8,
+      "nextTask": 0
+    },
+    "task_8": {
+      "id": 8,
+      "type": 1,
+      "name": "获得1次幸运收益",
+      "tag": 1,
+      "rewardType": 2,
+      "rewardValue": 1,
+      "nextTask": 9
+    },
+    "task_9": {
+      "id": 9,
+      "type": 1,
+      "name": "获得3次幸运收益",
+      "tag": 3,
+      "rewardType": 1,
+      "rewardValue": 5,
+      "nextTask": 0
+    },
+    "task_10": {
+      "id": 10,
+      "type": 1,
+      "name": "出名1次",
+      "tag": 1,
+      "rewardType": 2,
+      "rewardValue": 1,
+      "nextTask": 0
+    },
+    "task_11": {
+      "id": 11,
+      "type": 1,
+      "name": "升级店员20次",
+      "tag": 20,
+      "rewardType": 2,
+      "rewardValue": 1,
+      "nextTask": 12
+    },
+    "task_12": {
+      "id": 12,
+      "type": 1,
+      "name": "升级店员50次",
+      "tag": 50,
+      "rewardType": 1,
+      "rewardValue": 5,
+      "nextTask": 13
+    },
+    "task_13": {
+      "id": 13,
+      "type": 1,
+      "name": "升级店员100次",
+      "tag": 100,
+      "rewardType": 1,
+      "rewardValue": 10,
+      "nextTask": 0
+    },
+    "task_14": {
+      "id": 14,
+      "type": 1,
+      "name": "观看广告1次",
+      "tag": 1,
+      "rewardType": 2,
+      "rewardValue": 1,
+      "nextTask": 15
+    },
+    "task_15": {
+      "id": 15,
+      "type": 1,
+      "name": "观看广告3次",
+      "tag": 3,
+      "rewardType": 1,
+      "rewardValue": 10,
+      "nextTask": 16
+    },
+    "task_16": {
+      "id": 16,
+      "type": 1,
+      "name": "声望升级10次",
+      "tag": 10,
+      "rewardType": 2,
+      "rewardValue": 1,
+      "nextTask": 17
+    },
+    "task_17": {
+      "id": 17,
+      "type": 1,
+      "name": "声望升级20次",
+      "tag": 20,
+      "rewardType": 1,
+      "rewardValue": 5,
+      "nextTask": 18
+    },
+    "task_18": {
+      "id": 18,
+      "type": 1,
+      "name": "声望升级50次",
+      "tag": 50,
+      "rewardType": 1,
+      "rewardValue": 8,
+      "nextTask": 0
+    },
+    "task_19": {
+      "id": 19,
+      "type": 1,
+      "name": "使用道具1次",
+      "tag": 1,
+      "rewardType": 1,
+      "rewardValue": 5,
+      "nextTask": 20
+    },
+    "task_20": {
+      "id": 20,
+      "type": 1,
+      "name": "使用道具3次",
+      "tag": 3,
+      "rewardType": 1,
+      "rewardValue": 8,
+      "nextTask": 0
+    },
+    "task_21": {
+      "id": 21,
+      "type": 2,
+      "name": "到达老挝",
+      "tag": 2,
+      "rewardType": 1,
+      "rewardValue": 20,
+      "nextTask": 22
+    },
+    "task_22": {
+      "id": 22,
+      "type": 2,
+      "name": "到达泰国",
+      "tag": 3,
+      "rewardType": 1,
+      "rewardValue": 30,
+      "nextTask": 23
+    },
+    "task_23": {
+      "id": 23,
+      "type": 2,
+      "name": "到达柬埔寨",
+      "tag": 4,
+      "rewardType": 1,
+      "rewardValue": 30,
+      "nextTask": 24
+    },
+    "task_24": {
+      "id": 24,
+      "type": 2,
+      "name": "到达马来西亚",
+      "tag": 5,
+      "rewardType": 1,
+      "rewardValue": 40,
+      "nextTask": 25
+    },
+    "task_25": {
+      "id": 25,
+      "type": 2,
+      "name": "到达新加坡",
+      "tag": 6,
+      "rewardType": 1,
+      "rewardValue": 40,
+      "nextTask": 26
+    },
+    "task_26": {
+      "id": 26,
+      "type": 2,
+      "name": "到达印尼",
+      "tag": 7,
+      "rewardType": 1,
+      "rewardValue": 50,
+      "nextTask": 27
+    },
+    "task_27": {
+      "id": 27,
+      "type": 2,
+      "name": "到达日本",
+      "tag": 8,
+      "rewardType": 1,
+      "rewardValue": 50,
+      "nextTask": 28
+    },
+    "task_28": {
+      "id": 28,
+      "type": 2,
+      "name": "到达韩国",
+      "tag": 9,
+      "rewardType": 1,
+      "rewardValue": 50,
+      "nextTask": 29
+    },
+    "task_29": {
+      "id": 29,
+      "type": 2,
+      "name": "到达中国",
+      "tag": 10,
+      "rewardType": 1,
+      "rewardValue": 100,
+      "nextTask": 0
+    },
+    "task_30": {
+      "id": 30,
+      "type": 3,
+      "name": "引导奖励",
+      "tag": 1,
+      "rewardType": 1,
+      "rewardValue": 100,
+      "nextTask": 0
+    },
+    "task_31": {
+      "id": 31,
+      "type": 4,
+      "name": "广告循环奖励",
+      "tag": 5,
+      "rewardType": 1,
+      "rewardValue": 10,
+      "nextTask": 31
+    },
+    "task_41": {
+      "id": 41,
+      "type": 3,
+      "name": "收集100金币",
+      "tag": 100,
+      "rewardType": 3,
+      "rewardValue": 200,
+      "nextTask": 0
+    },
+    "task_42": {
+      "id": 42,
+      "type": 3,
+      "name": "甜品饮品店达到25级",
+      "tag": 25,
+      "rewardType": 3,
+      "rewardValue": 1000,
+      "nextTask": 0
+    },
+    "task_43": {
+      "id": 43,
+      "type": 3,
+      "name": "购买奇趣玩具店",
+      "tag": 1,
+      "rewardType": 3,
+      "rewardValue": 10000,
+      "nextTask": 0
+    },
+    "task_44": {
+      "id": 44,
+      "type": 3,
+      "name": "购买星星杂技团",
+      "tag": 1,
+      "rewardType": 1,
+      "rewardValue": 100,
+      "nextTask": 0
+    },
+    "task_45": {
+      "id": 45,
+      "type": 3,
+      "name": "与NPC互动三次",
+      "tag": 3,
+      "rewardType": 3,
+      "rewardValue": 100000,
+      "nextTask": 0
+    },
+    "task_46": {
+      "id": 46,
+      "type": 3,
+      "name": "购买温馨酒店",
+      "tag": 1,
+      "rewardType": 3,
+      "rewardValue": 1000000,
+      "nextTask": 0
+    },
+    "task_47": {
+      "id": 47,
+      "type": 3,
+      "name": "雇佣3个店员",
+      "tag": 3,
+      "rewardType": 2,
+      "rewardValue": 1,
+      "nextTask": 0
+    },
+    "task_48": {
+      "id": 48,
+      "type": 3,
+      "name": "完成一次出名",
+      "tag": 1,
+      "rewardType": 1,
+      "rewardValue": 20,
+      "nextTask": 0
+    }
+  }
+}

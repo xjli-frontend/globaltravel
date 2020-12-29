@@ -1,0 +1,27 @@
+
+tx_ren_shengji.png
+size: 176,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 2
+  size: 107, 120
+  orig: 107, 120
+  offset: 0, 0
+  index: -1
+xian_1
+  rotate: false
+  xy: 111, 44
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+xing_1
+  rotate: false
+  xy: 111, 7
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1

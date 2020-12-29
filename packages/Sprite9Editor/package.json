@@ -1,0 +1,23 @@
+{
+  "name": "sprite9editor",
+  "version": "0.0.1",
+  "description": "图片9宫格编辑器.",
+  "author": "eureka2020@foxmail.com",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/sprite9editor": {
+      "message": "sprite9editor:open"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "Sprite 9Grid Helper",
+    "width": 400,
+    "height": 300
+  },
+  "dependencies": {
+    "fs-extra": "^8.0.1",
+    "pngjs": "^5.0.0"
+  }
+}

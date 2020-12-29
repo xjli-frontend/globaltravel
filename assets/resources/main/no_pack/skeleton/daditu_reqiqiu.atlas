@@ -1,0 +1,20 @@
+
+daditu_reqiqiu.png
+size: 390,369
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+balloon
+  rotate: false
+  xy: 2, 2
+  size: 310, 365
+  orig: 310, 365
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: true
+  xy: 314, 252
+  size: 115, 74
+  orig: 115, 74
+  offset: 0, 0
+  index: -1

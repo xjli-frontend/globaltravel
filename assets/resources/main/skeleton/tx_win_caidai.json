@@ -1,0 +1,80 @@
+{
+"skeleton": { "hash": "FLVnO3MSnz16X72Ib6AU2cUYJAs", "spine": "3.6.53", "width": 0, "height": 0, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "zong", "parent": "root" }
+],
+"slots": [
+	{ "name": "tx_win_caidai_00000", "bone": "zong" }
+],
+"skins": {
+	"default": {
+		"tx_win_caidai_00000": {
+			"tx_win_caidai_00000": { "width": 18, "height": 18 },
+			"tx_win_caidai_00001": { "width": 18, "height": 18 },
+			"tx_win_caidai_00002": { "width": 18, "height": 18 },
+			"tx_win_caidai_00003": { "width": 18, "height": 18 },
+			"tx_win_caidai_00004": { "width": 18, "height": 18 },
+			"tx_win_caidai_00005": { "width": 18, "height": 18 },
+			"tx_win_caidai_00006": { "width": 18, "height": 18 },
+			"tx_win_caidai_00007": { "width": 18, "height": 18 },
+			"tx_win_caidai_00008": { "width": 18, "height": 18 },
+			"tx_win_caidai_00009": { "width": 18, "height": 18 },
+			"tx_win_caidai_00010": { "width": 18, "height": 18 },
+			"tx_win_caidai_00011": { "width": 18, "height": 18 },
+			"tx_win_caidai_00012": { "width": 18, "height": 18 },
+			"tx_win_caidai_00013": { "width": 18, "height": 18 },
+			"tx_win_caidai_00014": { "width": 18, "height": 18 }
+		}
+	}
+},
+"animations": {
+	"reward": {
+		"slots": {
+			"tx_win_caidai_00000": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"color": "eaeaeaff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2667,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"color": "eaeaeaff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "tx_win_caidai_00000" },
+					{ "time": 0.0333, "name": "tx_win_caidai_00001" },
+					{ "time": 0.0667, "name": "tx_win_caidai_00002" },
+					{ "time": 0.1, "name": "tx_win_caidai_00003" },
+					{ "time": 0.1333, "name": "tx_win_caidai_00004" },
+					{ "time": 0.1667, "name": "tx_win_caidai_00005" },
+					{ "time": 0.2, "name": "tx_win_caidai_00006" },
+					{ "time": 0.2333, "name": "tx_win_caidai_00007" },
+					{ "time": 0.2667, "name": "tx_win_caidai_00008" },
+					{ "time": 0.3, "name": "tx_win_caidai_00009" },
+					{ "time": 0.3333, "name": "tx_win_caidai_00010" },
+					{ "time": 0.3667, "name": "tx_win_caidai_00011" },
+					{ "time": 0.4, "name": "tx_win_caidai_00012" },
+					{ "time": 0.4333, "name": "tx_win_caidai_00013" },
+					{ "time": 0.4667, "name": "tx_win_caidai_00014" },
+					{ "time": 0.5, "name": "tx_win_caidai_00000" }
+				]
+			}
+		}
+	}
+}
+}

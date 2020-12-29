@@ -1,0 +1,61 @@
+{
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.game-globalTravel",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "encryptJs": false,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": true,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.game-globalTravel",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "c73b6196-de2d-4d09-ba63-e3cce501721b",
+  "title": "globalTycoon",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "33c5cd93-1d67-42",
+  "zipCompressJs": true,
+  "android": {
+    "packageName": "com.sixgamers.globalTycoon"
+  },
+  "ios": {
+    "packageName": "org.cocos2d.demo"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.demo"
+  },
+  "win32": {}
+}

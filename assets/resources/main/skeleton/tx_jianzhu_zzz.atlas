@@ -1,0 +1,13 @@
+
+tx_jianzhu_zzz.png
+size: 42,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z
+  rotate: false
+  xy: 2, 2
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1

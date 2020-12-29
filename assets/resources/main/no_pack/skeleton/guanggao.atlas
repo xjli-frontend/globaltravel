@@ -1,0 +1,20 @@
+
+guanggao.png
+size: 232,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flash_333
+  rotate: false
+  xy: 130, 22
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tubiao
+  rotate: true
+  xy: 2, 2
+  size: 120, 126
+  orig: 120, 126
+  offset: 0, 0
+  index: -1

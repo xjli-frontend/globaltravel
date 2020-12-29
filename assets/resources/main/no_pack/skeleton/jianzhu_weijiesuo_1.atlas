@@ -1,0 +1,69 @@
+
+jianzhu_weijiesuo_1.png
+size: 204,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 2
+  size: 150, 147
+  orig: 150, 147
+  offset: 0, 0
+  index: -1
+suo_1
+  rotate: false
+  xy: 154, 93
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+suo_1_2
+  rotate: false
+  xy: 154, 39
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+suo_2
+  rotate: false
+  xy: 187, 95
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+suo_2_2
+  rotate: true
+  xy: 187, 114
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+suo_3
+  rotate: true
+  xy: 154, 6
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+suo_3_2
+  rotate: false
+  xy: 170, 25
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+suo_4
+  rotate: false
+  xy: 187, 127
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+suo_4_2
+  rotate: false
+  xy: 154, 17
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,272 @@
+
+clerk_10.png
+size: 361,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dy_ren1_bei_jiao1
+  rotate: false
+  xy: 328, 55
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_jiao2
+  rotate: true
+  xy: 342, 41
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_shangjiao1
+  rotate: false
+  xy: 318, 41
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_shangjiao2
+  rotate: false
+  xy: 328, 65
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_shangshou1
+  rotate: true
+  xy: 266, 29
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_shangshou2
+  rotate: true
+  xy: 246, 38
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_shou1
+  rotate: true
+  xy: 316, 64
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_shou2
+  rotate: true
+  xy: 270, 3
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_tou
+  rotate: false
+  xy: 2, 6
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_weijin
+  rotate: false
+  xy: 246, 52
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_xiajiao1
+  rotate: true
+  xy: 343, 57
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_xiajiao2
+  rotate: false
+  xy: 352, 42
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_xiashou1
+  rotate: true
+  xy: 289, 53
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_xiashou2
+  rotate: true
+  xy: 228, 24
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+dy_ren1_bei_yifu
+  rotate: false
+  xy: 124, 20
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+dy_ren1_houfa
+  rotate: true
+  xy: 124, 3
+  size: 15, 54
+  orig: 15, 54
+  offset: 0, 0
+  index: -1
+dy_ren1_jiao1
+  rotate: false
+  xy: 270, 17
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dy_ren1_jiao2
+  rotate: false
+  xy: 303, 41
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+dy_ren1_meimao
+  rotate: false
+  xy: 283, 2
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+dy_ren1_shangjiao1
+  rotate: false
+  xy: 340, 66
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dy_ren1_shangjiao2
+  rotate: false
+  xy: 330, 43
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dy_ren1_shangshou1
+  rotate: true
+  xy: 284, 41
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+dy_ren1_shangshou2
+  rotate: true
+  xy: 209, 23
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+dy_ren1_shou1
+  rotate: true
+  xy: 303, 63
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dy_ren1_shou2
+  rotate: true
+  xy: 289, 63
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dy_ren1_tou
+  rotate: false
+  xy: 67, 7
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+dy_ren1_weijin
+  rotate: false
+  xy: 232, 3
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+dy_ren1_xiajiao1
+  rotate: false
+  xy: 352, 67
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+dy_ren1_xiajiao2
+  rotate: true
+  xy: 347, 31
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dy_ren1_xiashou1
+  rotate: true
+  xy: 309, 54
+  size: 7, 17
+  orig: 7, 17
+  offset: 0, 0
+  index: -1
+dy_ren1_xiashou2
+  rotate: true
+  xy: 265, 40
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+dy_ren1_yan
+  rotate: false
+  xy: 247, 24
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+dy_ren1_yifu
+  rotate: false
+  xy: 167, 23
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+dy_ren1_zui
+  rotate: false
+  xy: 305, 4
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+jiezhi1
+  rotate: false
+  xy: 286, 10
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+jiezhi2
+  rotate: false
+  xy: 317, 10
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+tx_stars_1
+  rotate: false
+  xy: 209, 36
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 180, 3
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1

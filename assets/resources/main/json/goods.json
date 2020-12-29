@@ -1,0 +1,184 @@
+{
+  "goods": {
+    "goods_1": {
+      "id": 1,
+      "goodsType": 4,
+      "name": "新手礼包",
+      "value": {
+        "value1": 300,
+        "value2": 168,
+        "value3": 0
+      },
+      "priceType": 1,
+      "price": 1.99
+    },
+    "goods_2": {
+      "id": 2,
+      "goodsType": 1,
+      "name": "一把碎钻",
+      "value": {
+        "value1": 170,
+        "value2": 0,
+        "value3": 0
+      },
+      "priceType": 1,
+      "price": 4.99
+    },
+    "goods_3": {
+      "id": 3,
+      "goodsType": 1,
+      "name": "一小袋钻石",
+      "value": {
+        "value1": 370,
+        "value2": 0,
+        "value3": 0
+      },
+      "priceType": 1,
+      "price": 9.99
+    },
+    "goods_4": {
+      "id": 4,
+      "goodsType": 1,
+      "name": "一小桶钻石",
+      "value": {
+        "value1": 600,
+        "value2": 0,
+        "value3": 0
+      },
+      "priceType": 1,
+      "price": 14.99
+    },
+    "goods_5": {
+      "id": 5,
+      "goodsType": 1,
+      "name": "一大桶钻石",
+      "value": {
+        "value1": 1100,
+        "value2": 0,
+        "value3": 0
+      },
+      "priceType": 1,
+      "price": 24.99
+    },
+    "goods_6": {
+      "id": 6,
+      "goodsType": 1,
+      "name": "一小车钻石",
+      "value": {
+        "value1": 2250,
+        "value2": 0,
+        "value3": 0
+      },
+      "priceType": 1,
+      "price": 49.99
+    },
+    "goods_7": {
+      "id": 7,
+      "goodsType": 1,
+      "name": "一堆钻石",
+      "value": {
+        "value1": 5000,
+        "value2": 0,
+        "value3": 0
+      },
+      "priceType": 1,
+      "price": 99.99
+    },
+    "goods_8": {
+      "id": 8,
+      "goodsType": 2,
+      "name": "获得12小时收益",
+      "value": {
+        "value1": 0,
+        "value2": 12,
+        "value3": 0
+      },
+      "priceType": 2,
+      "price": 60
+    },
+    "goods_9": {
+      "id": 9,
+      "goodsType": 2,
+      "name": "获得一天收益",
+      "value": {
+        "value1": 0,
+        "value2": 24,
+        "value3": 0
+      },
+      "priceType": 2,
+      "price": 100
+    },
+    "goods_10": {
+      "id": 10,
+      "goodsType": 2,
+      "name": "获得一周收益",
+      "value": {
+        "value1": 0,
+        "value2": 168,
+        "value3": 0
+      },
+      "priceType": 2,
+      "price": 200
+    },
+    "goods_11": {
+      "id": 11,
+      "goodsType": 2,
+      "name": "获得两周收益",
+      "value": {
+        "value1": 0,
+        "value2": 336,
+        "value3": 0
+      },
+      "priceType": 2,
+      "price": 300
+    },
+    "goods_12": {
+      "id": 12,
+      "goodsType": 3,
+      "name": "收益永久增加3倍",
+      "value": {
+        "value1": 0,
+        "value2": 0,
+        "value3": 3
+      },
+      "priceType": 2,
+      "price": 150
+    },
+    "goods_13": {
+      "id": 13,
+      "goodsType": 3,
+      "name": "收益永久增加6倍",
+      "value": {
+        "value1": 0,
+        "value2": 0,
+        "value3": 6
+      },
+      "priceType": 2,
+      "price": 270
+    },
+    "goods_14": {
+      "id": 14,
+      "goodsType": 3,
+      "name": "收益永久增加12倍",
+      "value": {
+        "value1": 0,
+        "value2": 0,
+        "value3": 12
+      },
+      "priceType": 2,
+      "price": 500
+    },
+    "goods_15": {
+      "id": 15,
+      "goodsType": 3,
+      "name": "收益永久增加27倍",
+      "value": {
+        "value1": 0,
+        "value2": 0,
+        "value3": 27
+      },
+      "priceType": 2,
+      "price": 1000
+    }
+  }
+}

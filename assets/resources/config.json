@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "code": 2,
+    "language": [
+        "en",
+        "zh"
+    ],
+    "server": "ws://121.54.161.164:5997",
+    "res_server": "https://ps6up.com:8083/globalTycoon",
+    "qiniucdn": "http://qf1qeehct.bkt.clouddn.com",
+    "packageName": "com.sixgamers.globalTycoon",
+    "gate_server": "http://ps6up.com:8088",
+    "fbshareLink": "https://ps6up.com:8083/globalTycoon/web/fbshare.html"
+}

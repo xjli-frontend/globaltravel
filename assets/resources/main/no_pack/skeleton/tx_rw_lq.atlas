@@ -1,0 +1,27 @@
+
+tx_rw_lq.png
+size: 762,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+222
+  rotate: false
+  xy: 2, 2
+  size: 275, 110
+  orig: 275, 110
+  offset: 0, 0
+  index: -1
+sekuai
+  rotate: false
+  xy: 279, 74
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+tx_1
+  rotate: false
+  xy: 2, 114
+  size: 758, 26
+  orig: 758, 26
+  offset: 0, 0
+  index: -1

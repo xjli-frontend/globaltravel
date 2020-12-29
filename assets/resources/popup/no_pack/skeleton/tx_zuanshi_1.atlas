@@ -1,0 +1,20 @@
+
+tx_zuanshi_1.png
+size: 290,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flash_00000
+  rotate: false
+  xy: 2, 2
+  size: 184, 182
+  orig: 184, 182
+  offset: 0, 0
+  index: -1
+flash_2
+  rotate: false
+  xy: 188, 84
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+qipao_dianzan.png
+size: 142,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zan
+  rotate: true
+  xy: 2, 2
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+zan_flash
+  rotate: false
+  xy: 80, 5
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1

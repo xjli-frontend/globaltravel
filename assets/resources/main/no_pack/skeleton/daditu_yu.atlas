@@ -1,0 +1,20 @@
+
+daditu_yu.png
+size: 163,39
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yu
+  rotate: false
+  xy: 2, 2
+  size: 85, 35
+  orig: 85, 35
+  offset: 0, 0
+  index: -1
+yuying
+  rotate: false
+  xy: 89, 7
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+zhujiemian_renwu_1.png
+size: 360,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 248, 13
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+k1
+  rotate: false
+  xy: 125, 2
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+k2
+  rotate: false
+  xy: 2, 2
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1

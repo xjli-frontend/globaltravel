@@ -1,0 +1,64 @@
+{
+  "clerk": {
+    "clerk_1": {
+      "id": 1,
+      "name": "外送员达达",
+      "storeId": 1
+    },
+    "clerk_2": {
+      "id": 2,
+      "name": "店员大宝",
+      "storeId": 2
+    },
+    "clerk_3": {
+      "id": 3,
+      "name": "大厨王师傅",
+      "storeId": 3
+    },
+    "clerk_4": {
+      "id": 4,
+      "name": "小丑杰克",
+      "storeId": 4
+    },
+    "clerk_5": {
+      "id": 5,
+      "name": "撒盐哥",
+      "storeId": 5
+    },
+    "clerk_6": {
+      "id": 6,
+      "name": "主唱露易丝",
+      "storeId": 6
+    },
+    "clerk_7": {
+      "id": 7,
+      "name": "服务生南沙",
+      "storeId": 7
+    },
+    "clerk_8": {
+      "id": 8,
+      "name": "放映员酷儿",
+      "storeId": 8
+    },
+    "clerk_9": {
+      "id": 9,
+      "name": "设计师翠花",
+      "storeId": 9
+    },
+    "clerk_10": {
+      "id": 10,
+      "name": "模特惠惠",
+      "storeId": 10
+    },
+    "clerk_11": {
+      "id": 11,
+      "name": "会计师老赵",
+      "storeId": 11
+    },
+    "clerk_12": {
+      "id": 12,
+      "name": "电视主持人鲁玉",
+      "storeId": 12
+    }
+  }
+}

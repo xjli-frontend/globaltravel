@@ -1,0 +1,20 @@
+
+qipao_guanggao.png
+size: 178,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanggao
+  rotate: false
+  xy: 2, 2
+  size: 97, 64
+  orig: 97, 64
+  offset: 0, 0
+  index: -1
+guanggao_flash
+  rotate: false
+  xy: 101, 11
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1

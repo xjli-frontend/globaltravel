@@ -1,0 +1,55 @@
+
+store_9.png
+size: 621,656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+store_9_chuchuang
+  rotate: false
+  xy: 433, 2
+  size: 64, 115
+  orig: 64, 115
+  offset: 0, 0
+  index: -1
+store_9_di
+  rotate: false
+  xy: 2, 351
+  size: 610, 303
+  orig: 610, 303
+  offset: 0, 0
+  index: -1
+store_9_fangzi
+  rotate: false
+  xy: 2, 23
+  size: 353, 326
+  orig: 353, 326
+  offset: 0, 0
+  index: -1
+store_9_hezi
+  rotate: false
+  xy: 499, 19
+  size: 84, 48
+  orig: 84, 48
+  offset: 0, 0
+  index: -1
+store_9_qiangbi
+  rotate: false
+  xy: 357, 12
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+store_9_ren
+  rotate: true
+  xy: 499, 69
+  size: 48, 120
+  orig: 48, 120
+  offset: 0, 0
+  index: -1
+store_9_xiezi
+  rotate: false
+  xy: 357, 119
+  size: 235, 230
+  orig: 235, 230
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,106 @@
+{
+  "storeIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "store": {
+    "store_1": {
+      "id": 1,
+      "name": "饮品店",
+      "maxLevel": 10000,
+      "reward": 1,
+      "timeStamp": 600,
+      "price": 4,
+      "priceMulti": 1.07
+    },
+    "store_2": {
+      "id": 2,
+      "name": "玩具手工店",
+      "maxLevel": 5400,
+      "reward": 60,
+      "timeStamp": 3000,
+      "price": 65,
+      "priceMulti": 1.15
+    },
+    "store_3": {
+      "id": 3,
+      "name": "中式美食店",
+      "maxLevel": 5500,
+      "reward": 540,
+      "timeStamp": 6000,
+      "price": 725,
+      "priceMulti": 1.14
+    },
+    "store_4": {
+      "id": 4,
+      "name": "杂技歌舞团",
+      "maxLevel": 6000,
+      "reward": 4320,
+      "timeStamp": 12000,
+      "price": 8650,
+      "priceMulti": 1.13
+    },
+    "store_5": {
+      "id": 5,
+      "name": "墨西哥餐厅",
+      "maxLevel": 6500,
+      "reward": 51840,
+      "timeStamp": 24000,
+      "price": 113680,
+      "priceMulti": 1.12
+    },
+    "store_6": {
+      "id": 6,
+      "name": "演唱会舞台",
+      "maxLevel": 7000,
+      "reward": 622080,
+      "timeStamp": 96000,
+      "price": 1244160,
+      "priceMulti": 1.11
+    },
+    "store_7": {
+      "id": 7,
+      "name": "酒店",
+      "maxLevel": 7000,
+      "reward": 7464960,
+      "timeStamp": 384000,
+      "price": 16422912,
+      "priceMulti": 1.1
+    },
+    "store_8": {
+      "id": 8,
+      "name": "露天电影院",
+      "maxLevel": 7500,
+      "reward": 89579520,
+      "timeStamp": 1536000,
+      "price": 179159040,
+      "priceMulti": 1.09
+    },
+    "store_9": {
+      "id": 9,
+      "name": "奢侈品店",
+      "maxLevel": 8500,
+      "reward": 1075000000,
+      "timeStamp": 6144000,
+      "price": 2150000000,
+      "priceMulti": 1.08
+    },
+    "store_10": {
+      "id": 10,
+      "name": "金银饰品店",
+      "maxLevel": 10000,
+      "reward": 29669000000,
+      "timeStamp": 36864000,
+      "price": 25799000000,
+      "priceMulti": 1.07
+    }
+  }
+}

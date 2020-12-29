@@ -1,0 +1,13 @@
+
+tx_gold_jindutiao_2.png
+size: 95,95
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/flash_00000
+  rotate: false
+  xy: 2, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1

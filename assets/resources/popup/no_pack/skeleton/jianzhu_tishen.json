@@ -1,0 +1,133 @@
+{
+"skeleton": { "hash": "l9vlvAoa2Sv2ElWFi45yHlpSqeI", "spine": "3.6.53", "width": 0, "height": 0, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" },
+	{ "name": "di", "parent": "bone" },
+	{ "name": "di2", "parent": "di", "x": -4.59, "y": 219.14 },
+	{ "name": "flash", "parent": "bone", "y": 26.64, "scaleX": 3, "scaleY": 3 },
+	{ "name": "flash2", "parent": "bone", "y": 26.64, "scaleX": 3, "scaleY": 3 }
+],
+"slots": [
+	{ "name": "egg", "bone": "di" },
+	{ "name": "light_01", "bone": "flash" },
+	{ "name": "light_02", "bone": "flash2" },
+	{ "name": "zh", "bone": "di2" }
+],
+"skins": {
+	"default": {
+		"egg": {
+			"egg": { "width": 682, "height": 511 }
+		},
+		"light_01": {
+			"light_01": { "x": -0.06, "y": -7.24, "width": 141, "height": 138 }
+		},
+		"light_02": {
+			"light_02": { "width": 124, "height": 120 }
+		}
+	},
+	"cn": {},
+	"en": {}
+},
+"animations": {
+	"reward_fadein": {
+		"slots": {
+			"egg": {
+				"attachment": [
+					{ "time": 0, "name": "egg" }
+				]
+			},
+			"light_01": {
+				"attachment": [
+					{ "time": 0, "name": "light_01" }
+				]
+			},
+			"light_02": {
+				"attachment": [
+					{ "time": 0, "name": "light_02" }
+				]
+			},
+			"zh": {
+				"attachment": [
+					{ "time": 0, "name": "1" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": 1.05, "y": 1.05 },
+					{ "time": 0.3333, "x": 1, "y": 1 }
+				]
+			},
+			"flash": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1, "x": 0, "y": 0 },
+					{ "time": 0.2667, "x": 1.1, "y": 1.1 },
+					{ "time": 0.4333, "x": 1, "y": 1 }
+				]
+			},
+			"flash2": {
+				"rotate": [
+					{ "time": 0.1, "angle": 15 },
+					{ "time": 0.4333, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1, "x": 0, "y": 0 },
+					{ "time": 0.2667, "x": 1.1, "y": 1.1 },
+					{ "time": 0.4333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"reward_loop": {
+		"slots": {
+			"egg": {
+				"attachment": [
+					{ "time": 0, "name": "egg" }
+				]
+			},
+			"light_01": {
+				"attachment": [
+					{ "time": 0, "name": "light_01" }
+				]
+			},
+			"light_02": {
+				"attachment": [
+					{ "time": 0, "name": "light_02" }
+				]
+			},
+			"zh": {
+				"attachment": [
+					{ "time": 0, "name": "1" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"flash": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"flash2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 6, "angle": 180 },
+					{ "time": 12, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

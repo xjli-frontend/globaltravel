@@ -1,0 +1,182 @@
+h4 { color: #f90; }
+
+._greeen { color: #00ff00; }
+.mainDiv
+{
+  width:100%;
+
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+/*section {*/
+  /*display: block;*/
+  /*margin: 10px 10px;*/
+  /*padding: 0 10px;*/
+  /*flex: 1;*/
+  /*overflow-y: auto;*/
+/*}*/
+
+/*.MainContent*/
+/*{*/
+  /*width:100%;*/
+
+  /*height: 100%;*/
+  /*overflow-y: auto;*/
+  /*overflow-x: hidden;*/
+/*}*/
+.containertab
+{
+  background-color: rgba(33, 33, 33, .8);
+  margin-bottom: 5px;
+}
+
+.container2
+{
+  background-color: rgba(77, 0, 0, .8);
+  padding:2px;
+  margin:2px;
+  margin-bottom: 5px;
+}
+
+.container3
+{
+  background-color: rgba(3, 20, 77, 0.8);
+  padding:2px;
+  margin:2px;
+  margin-bottom: 5px;
+}
+.gap
+{
+  margin-bottom:5px;
+}
+p.title
+{
+  margin-left:13px;
+  font-size:11px;
+  color: #11ff33;
+}
+
+div.tab_left
+{
+  margin-left: 10px;
+}
+
+.input1
+{
+  /*float:left;*/
+  position:absolute;
+  /*width:300px;*/
+  left: 80px;
+  right: 15px;
+  vertical-align:middle;
+}
+.input_short
+{
+  /*float:left;*/
+  /*position:absolute;*/
+  /*width:300px;*/
+  /*left: 80px;*/
+  width:100px;
+  vertical-align:middle;
+}
+
+.input_short1
+{
+  /*float:left;*/
+  /*position:absolute;*/
+  /*width:300px;*/
+  /*left: 200px;*/
+  width:100px;
+  vertical-align:middle;
+}
+
+.spanc
+{
+  display: block;
+  width: 80px;
+}
+
+.span_tab
+{
+  display: block;
+  padding-left: 4px;
+  width: 80px;
+}
+
+.sBtn
+{
+  width: 80px;
+}
+
+.mBtn
+{
+  width: 150px;
+}
+
+.lBtn
+{
+  width: 180px;
+}
+
+.maskBg {
+  display: none;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  z-index:1001;
+  -moz-opacity: 0.7;
+  opacity:.70;
+  filter: alpha(opacity=70);
+}
+
+p.HVCenter
+{
+  line-height: 60px;
+  height: 60px;
+  text-align: center;
+  vertical-align: middle;
+}
+.BText
+{
+    color: red;
+  font-size: 2em;
+}
+
+
+.hh-container{
+    display: -webkit-flex; /* Safari */
+    display: flex;
+    flex-direction: column;
+
+}
+.hh-row{
+    display: -webkit-flex; /* Safari */
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 8px;
+    margin-bottom: 2px;
+}
+.hh-col1{
+    margin-left: 10px;
+    width: 28%;
+    text-align: center;
+    /* align-content:center;   */
+}
+
+.hh-col2{
+    margin-right: 10px;
+    flex-grow:1;  
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: flex-start;
+    flex: 1;
+}
+.textaera{
+  width: 100%;
+}

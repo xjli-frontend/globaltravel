@@ -1,0 +1,14 @@
+{
+    "defaultSeverity": "warning",
+    "extends": [
+    ],
+    "linterOptions": {
+      "exclude": [
+        "node_modules/**"
+      ]
+    },
+    "rules": {
+      "no-conditional-assignment":true,
+      "no-for-in-array":true
+    }
+  }

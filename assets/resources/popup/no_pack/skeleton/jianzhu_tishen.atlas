@@ -1,0 +1,27 @@
+
+jianzhu_tishen.png
+size: 826,515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+egg
+  rotate: false
+  xy: 2, 2
+  size: 682, 511
+  orig: 682, 511
+  offset: 0, 0
+  index: -1
+light_01
+  rotate: true
+  xy: 686, 372
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+light_02
+  rotate: false
+  xy: 686, 250
+  size: 124, 120
+  orig: 124, 120
+  offset: 0, 0
+  index: -1

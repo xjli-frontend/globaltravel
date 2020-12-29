@@ -1,0 +1,76 @@
+
+store_4.png
+size: 942,678
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maxi_che
+  rotate: true
+  xy: 213, 22
+  size: 106, 109
+  orig: 106, 109
+  offset: 0, 0
+  index: -1
+maxi_daoju
+  rotate: false
+  xy: 412, 404
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+maxi_deng
+  rotate: false
+  xy: 485, 455
+  size: 455, 221
+  orig: 455, 221
+  offset: 0, 0
+  index: -1
+maxi_di
+  rotate: false
+  xy: 2, 436
+  size: 481, 240
+  orig: 481, 240
+  offset: 0, 0
+  index: -1
+maxi_flash1
+  rotate: false
+  xy: 485, 232
+  size: 455, 221
+  orig: 455, 221
+  offset: 0, 0
+  index: -1
+maxi_flash2
+  rotate: false
+  xy: 412, 9
+  size: 455, 221
+  orig: 455, 221
+  offset: 0, 0
+  index: -1
+maxi_jianzu
+  rotate: false
+  xy: 2, 130
+  size: 408, 304
+  orig: 408, 304
+  offset: 0, 0
+  index: -1
+maxi_qiqiu1
+  rotate: false
+  xy: 869, 126
+  size: 54, 104
+  orig: 54, 104
+  offset: 0, 0
+  index: -1
+maxi_qiqiu2
+  rotate: true
+  xy: 2, 33
+  size: 95, 209
+  orig: 95, 209
+  offset: 0, 0
+  index: -1
+maxi_qizhi
+  rotate: false
+  xy: 2, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1

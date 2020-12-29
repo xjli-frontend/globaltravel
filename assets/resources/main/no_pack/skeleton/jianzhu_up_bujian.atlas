@@ -1,0 +1,27 @@
+
+jianzhu_up_bujian.png
+size: 226,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 48
+  size: 103, 117
+  orig: 103, 117
+  offset: 0, 0
+  index: -1
+jiantou
+  rotate: true
+  xy: 2, 2
+  size: 44, 133
+  orig: 44, 133
+  offset: 0, 0
+  index: -1
+waikuang
+  rotate: true
+  xy: 107, 62
+  size: 103, 117
+  orig: 103, 117
+  offset: 0, 0
+  index: -1

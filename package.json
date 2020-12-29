@@ -1,0 +1,30 @@
+{
+  "name": "game-template2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "find": "^0.3.0",
+    "images": "^3.0.2",
+    "js-base64": "^2.5.1",
+    "pako": "^1.0.10"
+  },
+  "devDependencies": {
+    "archiver": "^3.1.1",
+    "extract-zip": "^1.6.7",
+    "fs-extra": "^8.1.0",
+    "ftps": "^1.1.1",
+    "md5-file": "^4.0.0",
+    "node-xlsx": "^0.11.2",
+    "pako": "1.0.10",
+    "simple-git": "^1.107.0"
+  },
+  "scripts": {
+    "codesync": "node tools/codeSync.js",
+    "langjson": "node tools/langJson.js $*",
+    "gamejson": "node tools/gameJson.js $*",
+    "upload145": "node tools/uploadTo145.js"
+  },
+  "license": "ISC"
+}

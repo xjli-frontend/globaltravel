@@ -1,0 +1,56 @@
+{
+"skeleton": { "hash": "PqlNxd+Ifzpl4aOIANdAnriahT8", "spine": "3.6.53", "width": 0, "height": 0, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" }
+],
+"slots": [
+	{ "name": "images/gold", "bone": "bone" }
+],
+"skins": {
+	"default": {
+		"images/gold": {
+			"images/gold": { "width": 80, "height": 82 }
+		}
+	}
+},
+"animations": {
+	"reward_idle": {
+		"slots": {
+			"images/gold": {
+				"attachment": [
+					{ "time": 0, "name": "images/gold" }
+				]
+			}
+		}
+	},
+	"reward_loop": {
+		"slots": {
+			"images/gold": {
+				"attachment": [
+					{ "time": 0, "name": "images/gold" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 1.15,
+						"y": 1.15,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.6667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

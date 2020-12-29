@@ -1,0 +1,13 @@
+
+baoxiang.png
+size: 110,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bx
+  rotate: false
+  xy: 2, 2
+  size: 106, 88
+  orig: 106, 88
+  offset: 0, 0
+  index: -1

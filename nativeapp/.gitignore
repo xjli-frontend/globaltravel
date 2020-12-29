@@ -1,0 +1,15 @@
+src/*
+
+res/*
+
+jsb-adapter
+
+subpackages
+
+main.js
+
+md5fileList.txt
+
+project.json
+js backups (useful for debugging)
+/*.txt

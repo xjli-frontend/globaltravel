@@ -1,0 +1,104 @@
+
+gold.png
+size: 972,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gold000
+  rotate: false
+  xy: 162, 7
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+gold004
+  rotate: true
+  xy: 2, 6
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+gold006
+  rotate: false
+  xy: 242, 7
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+gold008
+  rotate: false
+  xy: 482, 7
+  size: 75, 78
+  orig: 75, 78
+  offset: 0, 0
+  index: -1
+gold010
+  rotate: false
+  xy: 636, 7
+  size: 68, 78
+  orig: 68, 78
+  offset: 0, 0
+  index: -1
+gold012
+  rotate: false
+  xy: 776, 7
+  size: 56, 78
+  orig: 56, 78
+  offset: 0, 0
+  index: -1
+gold014
+  rotate: true
+  xy: 892, 44
+  size: 41, 78
+  orig: 41, 78
+  offset: 0, 0
+  index: -1
+gold016
+  rotate: true
+  xy: 892, 2
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+gold018
+  rotate: false
+  xy: 834, 7
+  size: 56, 78
+  orig: 56, 78
+  offset: 0, 0
+  index: -1
+gold020
+  rotate: false
+  xy: 706, 7
+  size: 68, 78
+  orig: 68, 78
+  offset: 0, 0
+  index: -1
+gold022
+  rotate: false
+  xy: 559, 7
+  size: 75, 78
+  orig: 75, 78
+  offset: 0, 0
+  index: -1
+gold024
+  rotate: false
+  xy: 322, 7
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+gold026
+  rotate: true
+  xy: 82, 6
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+gold030
+  rotate: false
+  xy: 402, 7
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1

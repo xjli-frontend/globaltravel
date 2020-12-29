@@ -1,0 +1,13 @@
+
+offline_zuanshi.png
+size: 124,95
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuanshi
+  rotate: false
+  xy: 2, 2
+  size: 120, 91
+  orig: 120, 91
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+guide_shouzhi.png
+size: 662,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouzhi
+  rotate: true
+  xy: 554, 2
+  size: 93, 106
+  orig: 93, 106
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00000
+  rotate: false
+  xy: 2, 189
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00001
+  rotate: false
+  xy: 94, 189
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00002
+  rotate: false
+  xy: 186, 189
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00003
+  rotate: false
+  xy: 278, 189
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00004
+  rotate: false
+  xy: 370, 189
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00005
+  rotate: false
+  xy: 462, 189
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00006
+  rotate: false
+  xy: 554, 189
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00007
+  rotate: false
+  xy: 2, 97
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00008
+  rotate: false
+  xy: 94, 97
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00009
+  rotate: false
+  xy: 186, 97
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00010
+  rotate: false
+  xy: 278, 97
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00011
+  rotate: false
+  xy: 370, 97
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00012
+  rotate: false
+  xy: 462, 97
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00013
+  rotate: false
+  xy: 554, 97
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00014
+  rotate: false
+  xy: 2, 5
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00015
+  rotate: false
+  xy: 94, 5
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00016
+  rotate: false
+  xy: 186, 5
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00017
+  rotate: false
+  xy: 278, 5
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00018
+  rotate: false
+  xy: 370, 5
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx_shouzhi_00019
+  rotate: false
+  xy: 462, 5
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1

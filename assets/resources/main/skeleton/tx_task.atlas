@@ -1,0 +1,20 @@
+
+tx_task.png
+size: 345,102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_flash_1
+  rotate: false
+  xy: 2, 2
+  size: 325, 98
+  orig: 325, 98
+  offset: 0, 0
+  index: -1
+tx_flash_2
+  rotate: true
+  xy: 329, 40
+  size: 60, 14
+  orig: 60, 14
+  offset: 0, 0
+  index: -1

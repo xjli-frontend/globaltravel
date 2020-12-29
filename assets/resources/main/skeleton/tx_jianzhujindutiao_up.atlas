@@ -1,0 +1,13 @@
+
+tx_jianzhujindutiao_up.png
+size: 437,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_flash_kuang_1
+  rotate: false
+  xy: 2, 2
+  size: 433, 64
+  orig: 433, 64
+  offset: 0, 0
+  index: -1

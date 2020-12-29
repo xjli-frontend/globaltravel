@@ -1,0 +1,27 @@
+
+daditu_yun.png
+size: 1344,799
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yun_1
+  rotate: true
+  xy: 1031, 277
+  size: 520, 311
+  orig: 520, 311
+  offset: 0, 0
+  index: -1
+yun_2
+  rotate: false
+  xy: 2, 2
+  size: 1018, 391
+  orig: 1018, 391
+  offset: 0, 0
+  index: -1
+yun_3
+  rotate: false
+  xy: 2, 395
+  size: 1027, 402
+  orig: 1027, 402
+  offset: 0, 0
+  index: -1

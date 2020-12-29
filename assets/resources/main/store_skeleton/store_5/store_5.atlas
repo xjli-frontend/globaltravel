@@ -1,0 +1,125 @@
+
+store_5.png
+size: 967,473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flash_1
+  rotate: false
+  xy: 851, 40
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+flash_2
+  rotate: false
+  xy: 800, 28
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+flash_3
+  rotate: true
+  xy: 604, 57
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+kongtiao_di
+  rotate: false
+  xy: 909, 46
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+kongtiao_di2
+  rotate: false
+  xy: 356, 38
+  size: 136, 96
+  orig: 136, 96
+  offset: 0, 0
+  index: -1
+kongtiao_ding
+  rotate: false
+  xy: 494, 40
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+kongtiao_ding2
+  rotate: false
+  xy: 545, 40
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+kongtiao_fengshan1
+  rotate: false
+  xy: 430, 6
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+kongtiao_fengshan2
+  rotate: false
+  xy: 356, 6
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+mo_di
+  rotate: false
+  xy: 2, 136
+  size: 672, 335
+  orig: 672, 335
+  offset: 0, 0
+  index: -1
+moxige_jianzhu
+  rotate: true
+  xy: 676, 82
+  size: 389, 289
+  orig: 389, 289
+  offset: 0, 0
+  index: -1
+moxige_paizi
+  rotate: false
+  xy: 393, 2
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+moxige_regou
+  rotate: false
+  xy: 744, 25
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+moxige_zhalan1
+  rotate: true
+  xy: 232, 13
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+moxige_zhalan2
+  rotate: false
+  xy: 494, 67
+  size: 108, 67
+  orig: 108, 67
+  offset: 0, 0
+  index: -1
+moxige_zhalan3
+  rotate: true
+  xy: 665, 5
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+moxige_zhuozi
+  rotate: false
+  xy: 2, 23
+  size: 228, 111
+  orig: 228, 111
+  offset: 0, 0
+  index: -1

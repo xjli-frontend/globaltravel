@@ -1,0 +1,41 @@
+
+youjian_linqu.png
+size: 740,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flash_1
+  rotate: false
+  xy: 334, 91
+  size: 242, 243
+  orig: 242, 243
+  offset: 0, 0
+  index: -1
+flash_2
+  rotate: false
+  xy: 578, 198
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+lg
+  rotate: true
+  xy: 2, 2
+  size: 332, 330
+  orig: 332, 330
+  offset: 0, 0
+  index: -1
+lg02
+  rotate: false
+  xy: 609, 71
+  size: 129, 125
+  orig: 129, 125
+  offset: 0, 0
+  index: -1
+tex001
+  rotate: false
+  xy: 334, 16
+  size: 273, 73
+  orig: 273, 73
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+tx_yunceng.png
+size: 442,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 2, 2
+  size: 243, 194
+  orig: 243, 194
+  offset: 0, 0
+  index: -1
+003
+  rotate: true
+  xy: 2, 198
+  size: 280, 281
+  orig: 280, 281
+  offset: 0, 0
+  index: -1
+013
+  rotate: true
+  xy: 285, 40
+  size: 438, 155
+  orig: 438, 155
+  offset: 0, 0
+  index: -1
